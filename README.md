@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Junior GANGNON
+# 👋 Salut, moi c'est Onésime GANGNON
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Data+Scientist;IA+et+Analyse+de+Donn%C3%A9es;Sant%C3%A9+et+Technologie;Game+Developer)
 
@@ -13,34 +13,30 @@
 
 ## 🚀 À Propos de Moi
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Junior GANGNON"
-        self.role = "Data Scientist"
-        self.location = "🇧🇯 Bénin"
-        self.education = "3+ ans en Statistiques"
-        self.passions = ["IA", "Santé", "Data Analysis", "Game Dev"]
-        
-    def mission(self):
-        return """
-        Transformer les données en solutions concrètes
-        qui font la différence dans le domaine de la santé 🏥
-        """
-    
-    def current_focus(self):
-        return [
-            "🔬 Machine Learning pour la santé",
-            "📊 Analyse statistique avancée",
-            "🎮 Développement de jeux vidéo",
-            "🤝 Collaboration open-source"
-        ]
+### 👨‍💻 Qui suis-je ?
 
-me = DataScientist()
-print(me.mission())
-```
+**Onésime GANGNON** - Data Scientist passionné par l'IA et l'analyse de données pour la santé
 
-Passionné par les données, l'IA et la santé, je suis convaincu que la technologie peut transformer notre quotidien. En tant que data scientist, je me spécialise dans l'analyse des données pour créer des solutions qui peuvent réellement faire la différence dans le domaine de la santé. Après avoir étudié pendant 3 ans dans le domaine de la statistique, je poursuis maintenant un cycle plus long pour me spécialiser davantage. Curieux et motivé, je cherche toujours à apprendre et à explorer de nouvelles technologies.
+📍 **Localisation:** Bénin  
+🎓 **Formation:** 
+- 3 ans en Statistiques
+- **Actuellement en Master** : Statistiques Appliquées au Vivant - CIPMA (Centre International de Physique Mathématique et Appliquée)
+
+💼 **Rôle:** Data Scientist spécialisé en analyse de données pour le domaine de la santé  
+🎯 **Passions:** Intelligence Artificielle, Santé, Analyse de Données, Développement de Jeux Vidéo
+
+### 🎯 Ma Mission
+
+Passionné par les données, l'IA et la santé, je suis convaincu que la technologie peut transformer notre quotidien. En tant que data scientist, je me spécialise dans l'analyse des données pour créer des solutions qui peuvent réellement faire la différence dans le domaine de la santé. 
+
+Après 3 années d'études en statistiques, je poursuis actuellement un **Master en Statistiques Appliquées au Vivant** au CIPMA (Centre International de Physique Mathématique et Appliquée), afin d'approfondir mes compétences à l'intersection entre statistiques, biologie et santé. Curieux et motivé, je cherche toujours à apprendre et à explorer de nouvelles technologies pour repousser les limites de ce qui est possible avec les données.
+
+### 🔬 Ce sur quoi je travaille actuellement
+
+- **Machine Learning appliqué à la santé** - Développement de modèles d'IA pour améliorer les diagnostics médicaux
+- **Analyse statistique avancée** - Transformation des données complexes en insights actionnables
+- **Jeu éducatif en Data Science** - Création d'un jeu vidéo pour apprendre la science des données de manière ludique et interactive 🎮
+- **Collaboration open-source** - Contribution active à la communauté tech
 
 ---
 
@@ -48,12 +44,12 @@ Passionné par les données, l'IA et la santé, je suis convaincu que la technol
 
 <div align="center">
 
-| | |
+| Infos | Détails |
 |:---:|:---|
-| 🌍 | **Localisation:** Bénin |
-| 📧 | **Email:** [sciencedata3553@gmail.com](mailto:sciencedata3553@gmail.com) |
-| 🤝 | **Collaboration:** Projets en data science, IA santé, analyse de données |
-| ⚡ | **Fun Fact:** Grand fan de développement de jeux vidéo par passion |
+| **Localisation** | 🇧🇯 Bénin |
+| **Email** | [sciencedata3553@gmail.com](mailto:sciencedata3553@gmail.com) |
+| **Collaboration** | Ouvert aux projets en data science, IA pour la santé, et analyse de données |
+| **Passion** | Développement de jeux vidéo éducatifs pour démocratiser la tech |
 
 </div>
 
@@ -157,35 +153,27 @@ Passionné par les données, l'IA et la santé, je suis convaincu que la technol
 
 </div>
 
-```python
-objectives_2025 = {
-    "📚 Apprentissage": [
-        "Maîtriser le Deep Learning appliqué à la santé",
-        "Approfondir mes connaissances en NLP médical",
-        "Explorer les dernières avancées en IA"
-    ],
-    "🚀 Projets": [
-        "Développer des outils d'analyse pour la santé publique",
-        "Créer un portfolio de projets data science",
-        "Publier des jeux vidéo éducatifs sur la santé"
-    ],
-    "🤝 Collaboration": [
-        "Contribuer à des projets open-source",
-        "Collaborer avec des équipes internationales",
-        "Partager mes connaissances via YouTube"
-    ],
-    "📊 Impact": [
-        "Créer des solutions qui font la différence",
-        "Aider à la prise de décision basée sur les données",
-        "Rendre l'IA accessible à tous"
-    ]
-}
+### 📚 Apprentissage & Formation
+- Exceller dans mon Master en Statistiques Appliquées au Vivant
+- Maîtriser le Deep Learning appliqué à la santé
+- Approfondir mes connaissances en NLP médical
+- Explorer les dernières avancées en IA et biostatistiques
 
-for category, goals in objectives_2025.items():
-    print(f"\n{category}")
-    for goal in goals:
-        print(f"  ✓ {goal}")
-```
+### 🚀 Développement de Projets
+- Finaliser mon jeu éducatif pour apprendre la data science
+- Développer des outils d'analyse pour la santé publique
+- Créer un portfolio de projets data science impactants
+- Publier des contenus éducatifs sur YouTube
+
+### 🤝 Collaboration & Réseau
+- Contribuer à des projets open-source
+- Collaborer avec des équipes internationales
+- Partager mes connaissances via YouTube
+
+### 📊 Impact & Innovation
+- Créer des solutions qui font la différence
+- Aider à la prise de décision basée sur les données
+- Rendre l'IA accessible à tous
 
 ---
 
@@ -193,14 +181,21 @@ for category, goals in objectives_2025.items():
 
 <div align="center">
 
-### 🔬 Coming Soon...
+### 🎮 Projet Principal : Jeu Éducatif en Data Science
 
-*Mes repositories sont en développement actif. Restez connectés pour découvrir mes projets en:*
+**En cours de développement** - Un jeu vidéo interactif pour apprendre la science des données de manière ludique et engageante. Ce projet combine ma passion pour le game development et la data science pour rendre l'apprentissage accessible et amusant.
 
-![Healthcare](https://img.shields.io/badge/🏥_Analyse_Médicale-Coming_Soon-DC143C?style=for-the-badge)
-![ML](https://img.shields.io/badge/🤖_Machine_Learning-In_Progress-FF6F00?style=for-the-badge)
-![DataViz](https://img.shields.io/badge/📊_Data_Visualization-Upcoming-4285F4?style=for-the-badge)
-![GameDev](https://img.shields.io/badge/🎮_Game_Development-In_Dev-5C2D91?style=for-the-badge)
+**Objectif :** Démocratiser l'apprentissage de la data science à travers le jeu vidéo
+
+---
+
+### 🔬 Autres Domaines d'Exploration
+
+![Healthcare](https://img.shields.io/badge/🏥_Analyse_Médicale-En_Développement-DC143C?style=for-the-badge)
+![ML](https://img.shields.io/badge/🤖_Machine_Learning-Santé-FF6F00?style=for-the-badge)
+![DataViz](https://img.shields.io/badge/📊_Visualisation_de_Données-En_Cours-4285F4?style=for-the-badge)
+
+*Restez connectés pour découvrir mes futurs projets en analyse de données médicales, machine learning appliqué à la santé, et visualisations interactives !*
 
 </div>
 
@@ -210,9 +205,9 @@ for category, goals in objectives_2025.items():
 
 <div align="center">
 
-> *"Les données racontent des histoires. Mon rôle est de les faire parler pour créer un impact positif dans le monde de la santé."*
+> *"Les données racontent des histoires. Mon rôle est de les transformer en solutions concrètes qui améliorent la santé et rendent la technologie accessible à tous."*
 > 
-> **— Junior GANGNON**
+> **— Onésime GANGNON**
 
 </div>
 
@@ -224,7 +219,7 @@ for category, goals in objectives_2025.items():
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Made with 💜 by [Junior GANGNON](https://github.com/Archange3553)**
+**Made with 💜 by [Onésime GANGNON](https://github.com/Archange3553)**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
