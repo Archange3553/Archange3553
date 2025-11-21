@@ -22,19 +22,19 @@
 - 3 ans en Statistiques
 - **Actuellement en Master** : Statistiques Appliquées au Vivant - CIPMA (Centre International de Physique Mathématique et Appliquée)
 
-💼 **Rôle:** Data Scientist spécialisé en analyse de données pour le domaine de la santé  
+💼 **Rôle:** Data Scientist spécialisé en analyse de données pour le domaine 
 🎯 **Passions:** Intelligence Artificielle, Santé, Analyse de Données, Développement de Jeux Vidéo
 
 ### 🎯 Ma Mission
 
-Passionné par les données, l'IA et la santé, je suis convaincu que la technologie peut transformer notre quotidien. En tant que data scientist, je me spécialise dans l'analyse des données pour créer des solutions qui peuvent réellement faire la différence dans le domaine de la santé. 
+Passionné par les données, l'IA et la santé, je suis convaincu que la technologie peut transformer notre quotidien. En tant que data scientist, je me spécialise dans l'analyse des données pour créer des solutions qui peuvent réellement faire la différence. 
 
 Après 3 années d'études en statistiques, je poursuis actuellement un **Master en Statistiques Appliquées au Vivant** au CIPMA (Centre International de Physique Mathématique et Appliquée), afin d'approfondir mes compétences à l'intersection entre statistiques, biologie et santé. Curieux et motivé, je cherche toujours à apprendre et à explorer de nouvelles technologies pour repousser les limites de ce qui est possible avec les données.
 
 ### 🔬 Ce sur quoi je travaille actuellement
 
 - **Machine Learning appliqué à la santé** - Développement de modèles d'IA pour améliorer les diagnostics médicaux
-- **Analyse statistique avancée** - Transformation des données complexes en insights actionnables
+- **Analyse statistique avancée** - Transformation des données complexes en insights compréhensibles
 - **Jeu éducatif en Data Science** - Création d'un jeu vidéo pour apprendre la science des données de manière ludique et interactive 🎮
 - **Collaboration open-source** - Contribution active à la communauté tech
 
@@ -63,10 +63,9 @@ Après 3 années d'études en statistiques, je poursuis actuellement un **Master
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📚 Data Science & ML
+### 📚 Data Science
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -78,15 +77,11 @@ Après 3 années d'études en statistiques, je poursuis actuellement un **Master
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🎯 Domaines d'Expertise
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-DC143C?style=for-the-badge&logo=heart&logoColor=white)
 ![Game Dev](https://img.shields.io/badge/Game_Dev-5C2D91?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
@@ -163,7 +158,6 @@ Après 3 années d'études en statistiques, je poursuis actuellement un **Master
 - Finaliser mon jeu éducatif pour apprendre la data science
 - Développer des outils d'analyse pour la santé publique
 - Créer un portfolio de projets data science impactants
-- Publier des contenus éducatifs sur YouTube
 
 ### 🤝 Collaboration & Réseau
 - Contribuer à des projets open-source
